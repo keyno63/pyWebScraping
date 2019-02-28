@@ -1,0 +1,36 @@
+<h3 class="h3-bar1">年度別成績</h3>
+<table class="tablesorter stats" id="tbl">
+<thead>
+<tr>
+<th>年度</th>
+<th style="width:110px;">球団</th>
+<th>試<br/>合</th>
+<th>勝<br/>利</th>
+<th>敗<br/>北</th>
+<th>セ<br/>l<br/>ブ</th>
+<th>ホ<br/>l<br/>ル<br/>ド</th>
+<th>H<br/>P</th>
+<th>完<br/>投</th>
+<th>完<br/>封<br/>勝</th>
+<th>無<br/>四<br/>球</th>
+<th>打<br/>者</th>
+<th>投<br/>球<br/>回</th>
+<th>被<br/>安<br/>打</th>
+<th>被<br/>本<br/>塁<br/>打</th>
+<th>与<br/>四<br/>球</th>
+<th>与<br/>死<br/>球</th>
+<th>奪<br/>三<br/>振</th>
+<th>暴<br/>投</th>
+<th>ボ<br/>l<br/>ク</th>
+<th>失<br/>点</th>
+<th>自<br/>責<br/>点</th>
+<th>防<br/>御<br/>率</th>
+<th>W<br/>H<br/>I<br/>P</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center;">2018</td><td style="text-align:left;">横浜DeNA</td><td>24</td><td>11</td><td>5</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>626</td><td>154.0</td><td>130</td><td>13</td><td>42</td><td>2</td><td>155</td><td>1</td><td>0</td><td>45</td><td>42</td><td>2.45</td><td>1.12</td></tr>
+<tr style="background-color:#e0e0e0; font-weight:bold;"><td colspan="2" style="text-align:center;">通算</td><td>24</td><td>11</td><td>5</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>626</td><td>154.0</td><td>130</td><td>13</td><td>42</td><td>2</td><td>155</td><td>1</td><td>0</td><td>45</td><td>42</td><td>2.45</td><td>1.12</td></tr>
+</tbody>
+</table>
+
